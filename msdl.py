@@ -3,7 +3,6 @@ import argparse
 import requests
 import re
 import sys
-import json
 
 def print_help():
     help_text = """
