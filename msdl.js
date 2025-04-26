@@ -9,6 +9,10 @@
 // @license      WTFPL
 // ==/UserScript==
 
+/*
+    Github: https://github.com/CreeperKong/msdl
+*/
+
 (function() {
     'use strict';
 
