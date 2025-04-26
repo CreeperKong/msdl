@@ -6,6 +6,7 @@
 // @author       CreeperKong
 // @match        *://www.microsoft.com/*/download/details.aspx*
 // @grant        none
+// @license      WTFPL
 // ==/UserScript==
 
 (function() {
